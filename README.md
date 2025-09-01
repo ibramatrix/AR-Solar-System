@@ -63,7 +63,9 @@ AR-Solar-System/
 
 4.  Build and run on a device.
 
-📖 Usage
+---
+
+## 📖 Usage
 
 1.  Launch the app → camera will open.
 
@@ -73,8 +75,11 @@ AR-Solar-System/
 
 4.  Tap on planets to get information.
 
-🏫 Project Background
+---
+
+## 🏫 Project Background
 
 This project was created in 2022 as part of a collaboration with NUST (National University of Sciences and Technology).
 It was designed for BS Psychology students to explore innovative educational experiences using AR/VR technology.
 
+---
