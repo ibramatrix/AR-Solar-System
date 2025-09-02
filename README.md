@@ -17,14 +17,6 @@ The app uses the device camera to project the **solar system in AR**, where plan
 
 ---
 
-## 🎥 Demo
-
-> 📹 Add screenshots or a short demo video/GIF here.  
-> Example:  
-> ![Demo](docs/demo.gif)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Unity (2021.x)** – Game engine  
@@ -56,7 +48,7 @@ AR-Solar-System/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AR-Solar-System.git
+   git clone https://github.com/ibramatrix/AR-Solar-System.git
 2.  Open the project in Unity Hub.
 
 3.  Switch build platform to Android.
